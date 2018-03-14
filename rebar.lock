@@ -1,0 +1,22 @@
+{"1.1.0",
+[{<<"cowlib">>,
+  {git,"https://github.com/ninenines/cowlib",
+       {ref,"fe4d3cc6f83a3ed45d425d6a61c4f2f731238fa3"}},
+  2},
+ {<<"gpb">>,{pkg,<<"gpb">>,<<"4.1.3">>},1},
+ {<<"grpc_client">>,
+  {git,"https://github.com/Bluehouse-Technology/grpc_client",
+       {ref,"7b0309689126a8ead7548a1849a42cd7bed7240a"}},
+  0},
+ {<<"grpc_lib">>,
+  {git,"https://github.com/ajiyoshi-vg/grpc_lib.git",
+       {ref,"b814166d7184a1e6b87d944e5dafa33c316703aa"}},
+  0},
+ {<<"http2_client">>,
+  {git,"https://github.com/Bluehouse-Technology/http2_client",
+       {ref,"8a6faf3ef1e0f3bb480d52d34ef5181258e99302"}},
+  1}]}.
+[
+{pkg_hash,[
+ {<<"gpb">>, <<"FE63F312AE95CE8F1D307E04DF3C6B49A504F5C7D0A84221B02A819FEDA63BBE">>}]}
+].
